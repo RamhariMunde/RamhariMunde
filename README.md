@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/RamhariMunde/Chat_App](https://github.com/RamhariMunde/Chat_App)
 
-- 💬 Ask me about **C/C++ Programming**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **munderam0505@gmail.com**
 
