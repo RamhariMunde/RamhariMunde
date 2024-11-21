@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rammunde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rammunde" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rammunde" target="blank"><img align="center" src="https://www.svgrepo.com/show/217760/linkedin.svg"S alt="rammunde" height="30" width="40" /></a>
 <a href="https://app.netlify.com/teams/ramharimunde/sites" target="blank"><img align="center" src="https://www.svgrepo.com/show/376339/netlify.svg" alt="rammunde" height="30" width="40" /></a>
 </p>
 
